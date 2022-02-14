@@ -1,10 +1,10 @@
-# create-azure-vm-notebook
-A step by step notebook to create virtual machines in azure
+# manage-azure-vms-notebook
+A set of step by step notebooks to create and manage virtual machines in azure
 
 ## How to use
 You need [Visual Studio Code](https://code.visualstudio.com/) with the [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
-1. Open the **create-vm-in-azure.ipynb** file with Visual Studio Code
+1. Open the **create-vm.ipynb** file with Visual Studio Code
 
 [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
