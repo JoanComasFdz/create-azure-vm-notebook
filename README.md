@@ -16,3 +16,12 @@ Either:
 Or:
 - `docker run -p 8888:8888 pocki/minimal-dotnet::20220210`
 - Open the file in the JupyterLab.
+
+## Useful stuff
+
+### Install chocolatey
+1. Run in PowerShell as Admin:
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
+2. Close PowerShell
